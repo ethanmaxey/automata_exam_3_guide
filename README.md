@@ -15,10 +15,30 @@
 
 ## Question 1
 
-> Prove that the language L(G) is not regular where G is the following context-free-grammar: G={...} Note: You must first determine L(G).
+> Prove that the following language L is not context-free.
 
-- Context Free Grammar & Context Free Language 📹 [[Video](https://youtu.be/5_tfVe7ED3g)]
-- Derivations from a Grammar 📹 [[Video](https://youtu.be/ejXgLRSIxsA)]<br><br>
-- How to prove a language is not regular using Pumping Lemma 📹 [[Video](https://youtu.be/dikEDuepOtI)]
-- Example 1 📹 [[Video]()]
-- Example 2 📹 [[Video]()]
+- Context Free Grammar & Context Free Language 📹 [[Video](link)]
+
+## Question 2
+
+> Construct a pda P for the following langeage L = {...} where L = L(P) (acceptance bu final state. State on which side you write the top of the stack, left, or right. Hint: Put three markers on the stack for every 0.
+
+- Context Free Grammar & Context Free Language 📹 [[Video](link)]
+
+## Question 3
+
+> Construct a pda P that accepts the following language by empty stack: L = L(G) where G = {...} with T = {...}, N = {...}, and P = {...}. State on which side you write the top of the stack, left, or right. Note: You must use the construction "cfg -> pda" given in class. Get G into GNF first!
+
+- Context Free Grammar & Context Free Language 📹 [[Video](link)]
+
+## Question 4
+
+> Construct a grammaar for L(G) for the language N(P): P = {...} where the move function delta is given by {...}. Here, the top of the stack is on the left.
+
+- Context Free Grammar & Context Free Language 📹 [[Video](link)]
+
+## Question 5
+
+> Construct a Turing machine for the language in Question 1. L = {...}. Describe first in words what you are doing, then formulate the formal Turing machine.
+
+- Context Free Grammar & Context Free Language 📹 [[Video](link)]
