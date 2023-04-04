@@ -19,9 +19,25 @@
 > Prove that the following language L is not context-free.
 
 $$
-\text{April 2008}\\quad
-L = [o^k 1^j 2^i \quad \text{|}\  i>j>k\geq 0]
+\text{Spring 2008}\\quad
+L = [0^k 1^j 2^i \quad \text{|}\  i>j>k\geq 0]
 $$
+
+$$
+\text{Spring 2009}\\quad
+L = [0^k 1^j 0^i \quad \text{|}\  i>j>k\geq 0]
+$$
+
+$$
+\text{Summer 2008}\\quad
+L = [0^k 1^j 2^i \quad \text{|}\  i>j>k\geq 1]
+$$
+
+$$
+\text{Summer 2009}\\quad
+L = [a^k b^j a^i \quad \text{|}\  i>j>k\geq 0]
+$$
+
 
 - Pumping Lemma (For CFL) 📹 [[Video](https://www.youtube.com/watch?v=jRhqx1_KcCk)]
 - Example 1 📹 [[Video](https://youtu.be/eQ0XkUk3qGk)]
