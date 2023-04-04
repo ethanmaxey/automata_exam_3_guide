@@ -18,6 +18,11 @@
 
 > Prove that the following language L is not context-free.
 
+$$
+\text{April 2008}\\quad
+L = [o^k 1^j 2^i \quad \text{|}\  i>j>k\geq 0]
+$$
+
 - Pumping Lemma (For CFL) 📹 [[Video](https://www.youtube.com/watch?v=jRhqx1_KcCk)]
 - Example 1 📹 [[Video](https://youtu.be/eQ0XkUk3qGk)]
 - Example 2 📹 [[Video](https://youtu.be/DPs8sBcIjs8)]
