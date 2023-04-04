@@ -44,12 +44,12 @@ L = [a^k b^j a^i \quad \text{|}\  i>j>k\geq 1]
 $$
 
 $$
-\text{Summer 2012}\\quad
+\text{Summer 2012, 2017}\\quad
 L = [a^i b^j a^i \quad \text{|}\  j\geq i \geq 1]
 $$
 
 $$
-\text{Summer 2013}\\quad
+\text{Summer 2013, 2015}\\quad
 L = [a^i b^j a^i \quad \text{|}\  j>i \geq 1]
 $$
 
