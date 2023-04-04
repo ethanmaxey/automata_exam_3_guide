@@ -24,18 +24,33 @@ L = [0^k 1^j 2^i \quad \text{|}\  i>j>k\geq 0]
 $$
 
 $$
-\text{Spring 2009}\\quad
-L = [0^k 1^j 0^i \quad \text{|}\  i>j>k\geq 0]
-$$
-
-$$
 \text{Summer 2008}\\quad
 L = [0^k 1^j 2^i \quad \text{|}\  i>j>k\geq 1]
 $$
 
 $$
+\text{Spring 2009}\\quad
+L = [0^k 1^j 0^i \quad \text{|}\  i>j>k\geq 0]
+$$
+
+$$
 \text{Summer 2009}\\quad
 L = [a^k b^j a^i \quad \text{|}\  i>j>k\geq 0]
+$$
+
+$$
+\text{Summer 2010}\\quad
+L = [a^k b^j a^i \quad \text{|}\  i>j>k\geq 1]
+$$
+
+$$
+\text{Summer 2012}\\quad
+L = [a^i b^j a^i \quad \text{|}\  j\geq i \geq 1]
+$$
+
+$$
+\text{Summer 2013}\\quad
+L = [a^i b^j a^i \quad \text{|}\  j>i \geq 1]
 $$
 
 
