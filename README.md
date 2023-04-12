@@ -115,7 +115,7 @@ $$
 $$
 
 $$
-δ(q,b,z) = {(p,XY)} \\quad δ(p,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
+δ(q,b,z) = {(p,XZ)} \\quad δ(p,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
 $$
 
 - Equivalance of CFG and PDA - Part 1 📹 [[Video](https://youtu.be/FjGrU7vczyg)]
