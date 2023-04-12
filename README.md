@@ -62,6 +62,11 @@ $$
 
 > Construct a pda P for the following langeage L = {...} where L = L(P) (acceptance bu final state. State on which side you write the top of the stack, left, or right. Hint: Put three markers on the stack for every 0.
 
+$$
+\text{Spring 2008}\\quad
+L = [0^i 1^(3i) \quad \text{|}\  i\geq 0]
+$$
+
 - Intro to Pushdown Automata 📹 [[Video](https://youtu.be/4ejIAmp_Atw)]
 - Formal Definition of Pushdown Automata 📹 [[Video](https://youtu.be/JtRyd7Svlew)]
 - Pushdown Automata - Graphical Notation 📹 [[Video](https://youtu.be/eY7fwj5jvC4)]
@@ -78,6 +83,40 @@ $$
 ## Question 4
 
 > Construct a grammar for L(G) for the language N(P): P = {...} where the move function delta is given by {...}. Here, the top of the stack is on the left.
+
+$$
+\text{Spring, Summer 2008} \\quad
+$$
+
+$$
+P = ( (p, q), (a, b), (Z, X), δ, p, Z, Ø)
+$$
+
+$$
+δ(p,a,z) = {(p,XZ)} \\quad δ(p,ϵ,z) = {(p, ϵ)} \\quad δ(p,a,X) = {(p, XX)}\\quad
+$$
+
+$$
+δ(q,a,z) = {(q,ϵ)} \\quad δ(p,b,X) = {(q, X)} \\quad δ(q,b,Z) = {(p,Z)}
+$$
+
+<br>
+
+$$
+\text{Summer 2009} \\quad
+$$
+
+$$
+P = ( (p, q), (a, b), (Z, X), δ, p, Z, Ø)
+$$
+
+$$
+δ(p,b,z) = {(p,XZ)} \\quad δ(p,ϵ,z) = {(q, ϵ)} \\quad δ(p,b,X) = {(p, XX)}\\quad
+$$
+
+$$
+δ(q,b,z) = {(p,XY)} \\quad δ(p,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
+$$
 
 - Equivalance of CFG and PDA - Part 1 📹 [[Video](https://youtu.be/FjGrU7vczyg)]
 - Equivalance of CFG and PDA - Part 2a 📹 [[Video](https://youtu.be/kyvLetfjOhc)]
