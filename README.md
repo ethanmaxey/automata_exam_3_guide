@@ -118,26 +118,12 @@ $$
 δ(q,b,z) = {(p,XZ)} \\quad δ(p,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
 $$
 
-- Equivalance of CFG and PDA - Part 1 📹 [[Video](https://youtu.be/FjGrU7vczyg)]
-- Equivalance of CFG and PDA - Part 2a 📹 [[Video](https://youtu.be/kyvLetfjOhc)]
-- Equivalance of CFG and PDA - Part 2b 📹 [[Video](https://youtu.be/DjbukiTf-48)]
+- Leiss Lecture 📹 [[Video](https://www.youtube.com/watch?v=aADmqDfpx-c)]
+
 
 ## Question 5
 
 > Construct a Turing machine for the language in Question 1. L = {...}. Describe first in words what you are doing, then formulate the formal Turing machine.
 
-- Turing Machines - Intro Part 1 📹 [[Video](https://youtu.be/FjGrU7vczyg)]
-- Turing Machines - Intro Part 2 📹 [[Video](https://youtu.be/GPSk9tRsK2I)]
-- Turing Machines (Formal Definition) 📹 [[Video](https://youtu.be/yFEdBR-rP9g)]
-- Example 1 📹 [[Video](https://youtu.be/D9eF_B8URnw)]
-- Example 2 📹 [[Video](https://youtu.be/cR4Re0YfoOo)]
-- The Church-Turing Thesis 📹 [[Video](https://youtu.be/0D7yInuKvKs)]
-- Turing Machine for Even Palindromes 📹 [[Video](https://youtu.be/KW9md3j4_cU)]
-- Turing Machines Programming Techniques Part 1 📹 [[Video](https://youtu.be/BKhQJP4sa_8)]
-- Turing Machines Programming Techniques Part 2 📹 [[Video](https://youtu.be/23vQEJWXc-k)]
-- Turing Machines Programming Techniques Part 3 📹 [[Video](https://youtu.be/CyB3aQhH9u4)]
-- Multitape Turing Machine 📹 [[Video](https://youtu.be/CLLutxGVDY4)]
-- Nondeterministic Turing Machine - Part 1 📹 [[Video](https://youtu.be/gQnPM6sydkk)]
-- Nondeterministic Turing Machine - Part 2 📹 [[Video](https://youtu.be/9Bk11XgiC1E)]
-- Turing Machine as Problem Solvers  📹 [[Video](https://youtu.be/f_1GptvagSw)]
-- Universal Turing Machine 📹 [[Video](https://youtu.be/eKCX-4_jzck)]
+- Turing Machines - Leiss Lecturing 📹 [[Video](https://www.youtube.com/watch?v=bqQ55-KM_7E)]
+- Turing Machines - Example 📹 [[Video](https://www.youtube.com/watch?v=Y0x9kmfjQTA)]
