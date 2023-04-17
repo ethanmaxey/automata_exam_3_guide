@@ -53,6 +53,7 @@ $$
 L = [a^i b^j a^i \quad \text{|}\  j>i \geq 1]
 $$
 
+- Leiss on Pumping Lemma (0:00 - 12:28) [[Video](https://www.youtube.com/watch?v=VVbsZKxvLM8)]
 
 - Pumping Lemma (For CFL) 📹 [[Video](https://www.youtube.com/watch?v=jRhqx1_KcCk)]
 - Example 1 📹 [[Video](https://youtu.be/eQ0XkUk3qGk)]
@@ -67,12 +68,7 @@ $$
 L = [0^i 1^(3i) \quad \text{|}\  i\geq 0]
 $$
 
-- Intro to Pushdown Automata 📹 [[Video](https://youtu.be/4ejIAmp_Atw)]
-- Formal Definition of Pushdown Automata 📹 [[Video](https://youtu.be/JtRyd7Svlew)]
-- Pushdown Automata - Graphical Notation 📹 [[Video](https://youtu.be/eY7fwj5jvC4)]
-- Example 1 - Part 1 📹 [[Video](https://youtu.be/TEQcJybMMFU)]
-- Example 1 - Part 2 📹 [[Video](https://youtu.be/BxA-aI2dyRo)]
-- Example 1 - Part 3 📹 [[Video](https://youtu.be/xHj2WI1Rrl4)]
+- LEISS on Right vs Left stack 12:28 18:10 - 📹 [[Video](https://www.youtube.com/watch?v=VVbsZKxvLM8)]
 
 ## Question 3
 
@@ -120,10 +116,10 @@ $$
 
 - Leiss Lecture 📹 [[Video](https://www.youtube.com/watch?v=aADmqDfpx-c)]
 
-
 ## Question 5
 
 > Construct a Turing machine for the language in Question 1. L = {...}. Describe first in words what you are doing, then formulate the formal Turing machine.
 
+- LEISS (22:00 - 1:25:20) 📹 [[Video](https://www.youtube.com/watch?v=bqQ55-KM_7E)]
 - Turing Machines - Leiss Lecturing 📹 [[Video](https://www.youtube.com/watch?v=bqQ55-KM_7E)]
 - Turing Machines - Example 📹 [[Video](https://www.youtube.com/watch?v=Y0x9kmfjQTA)]
