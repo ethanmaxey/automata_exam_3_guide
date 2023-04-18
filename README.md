@@ -74,6 +74,11 @@ L = [0^i 1^{3i} \quad \text{|}\  i\geq 0]
 $$
 
 $$
+\text{Summer 2015}\\quad
+L = [0^{3i} 1^i \quad \text{|}\  i\geq 0]
+$$
+
+$$
 \text{Summer 2017}\\quad
 L = [0^{5i} 1^i \quad \text{|}\  i\geq 0]
 $$
@@ -92,7 +97,7 @@ $$
 - Refer to [Q2's](#question-2) videos
 
 $$
-\text{Summer 2017} \\quad
+\text{Summer 2015, 2017} \\quad
 $$
 
 $$
@@ -156,7 +161,7 @@ $$
 <br>
 
 $$
-\text{Summer 2017} \\quad
+\text{Summer 2015, 2017} \\quad
 $$
 
 $$
@@ -194,6 +199,11 @@ $$
 ## Question 5
 
 > Construct a Turing machine for the language in Question 1. L = {...}. Describe first in words what you are doing, then formulate the formal Turing machine.
+
+$$
+\text{Summer 2015}\\quad
+L = [a^i b^j a^i \quad \text{|}\  j > i \geq 1]
+$$
 
 $$
 \text{Summer 2017}\\quad
