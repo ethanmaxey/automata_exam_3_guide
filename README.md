@@ -89,11 +89,11 @@ P = ( (p, q), (a, b), (Z, X), δ, p, Z, Ø)
 $$
 
 $$
-δ(p,a,z) = {(p,XZ)} \\quad δ(p,ϵ,z) = {(p, ϵ)} \\quad δ(p,a,X) = {(p, XX)}\\quad
+δ(p,a,Z) = {(p,XZ)} \\quad δ(p,ϵ,Z) = {(p, ϵ)} \\quad δ(p,a,X) = {(p, XX)}\\quad
 $$
 
 $$
-δ(q,a,z) = {(q,ϵ)} \\quad δ(p,b,X) = {(q, X)} \\quad δ(q,b,Z) = {(p,Z)}
+δ(q,a,Z) = {(q,ϵ)} \\quad δ(p,b,X) = {(q, X)} \\quad δ(q,b,Z) = {(p,Z)}
 $$
 
 <br>
@@ -107,11 +107,29 @@ P = ( (p, q), (a, b), (Z, X), δ, p, Z, Ø)
 $$
 
 $$
-δ(p,b,z) = {(p,XZ)} \\quad δ(p,ϵ,z) = {(q, ϵ)} \\quad δ(p,b,X) = {(p, XX)}\\quad
+δ(p,b,Z) = {(p,XZ)} \\quad δ(p,ϵ,Z) = {(q, ϵ)} \\quad δ(p,b,X) = {(p, XX)}\\quad
 $$
 
 $$
-δ(q,b,z) = {(p,XZ)} \\quad δ(p,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
+δ(q,b,Z) = {(p,XZ)} \\quad δ(p,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
+$$
+
+<br>
+
+$$
+\text{Summer 2017} \\quad
+$$
+
+$$
+P = ( (p, q), (a, b), (Z, X), δ, p, Z, Ø)
+$$
+
+$$
+δ(p,b,Z) = {(p,XZ)} \\quad δ(q,ϵ,Z) = {(q, ϵ)} \\quad δ(p,b,X) = {(p, XX)}\\quad
+$$
+
+$$
+δ(q,b,Z) = {(p,XZ)} \\quad δ(q,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
 $$
 
 - Leiss Lecture 📹 [[Video](https://www.youtube.com/watch?v=aADmqDfpx-c)]
