@@ -53,6 +53,11 @@ $$
 L = [a^i b^j a^i \quad \text{|}\  j>i \geq 1]
 $$
 
+$$
+\text{Summer 2022}\\quad
+L = [a^i b^i a^j \quad \text{|}\  j\geq i \geq 1]
+$$
+
 - Leiss on Pumping Lemma (0:00 - 12:28) [[Video](https://www.youtube.com/watch?v=VVbsZKxvLM8)]
 
 - Pumping Lemma (For CFL) 📹 [[Video](https://www.youtube.com/watch?v=jRhqx1_KcCk)]
@@ -73,6 +78,11 @@ $$
 L = [0^{5i} 1^i \quad \text{|}\  i\geq 0]
 $$
 
+$$
+\text{Summer 2022}\\quad
+L = [10^{3i} 1^i \quad \text{|}\  i\geq 1]
+$$
+
 - LEISS on Right vs Left stack 12:28 18:10 - 📹 [[Video](https://www.youtube.com/watch?v=VVbsZKxvLM8)]
 
 ## Question 3
@@ -91,6 +101,18 @@ $$
 
 $$
 N = {E} \\quad P = (E -> E*E | E/E | (E) | id)
+$$
+
+$$
+\text{Summer 2022} \\quad
+$$
+
+$$
+L = L(G) \\quad G = (T, N, P, S) \\quad T = (a,b,c,d)
+$$
+
+$$
+N = {S, A} \\quad P = (S -> aSb| cAd | a, \\quad A -> aSb|SS)
 $$
 
 ## Question 4
@@ -149,6 +171,22 @@ $$
 δ(q,b,Z) = {(p,XZ)} \\quad δ(q,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
 $$
 
+$$
+\text{Summer 2022} \\quad
+$$
+
+$$
+P = ( (p, q), (a, b), (Z, X), δ, p, Z, Ø)
+$$
+
+$$
+δ(p,b,Z) = {(p,XZ)} \\quad δ(q,ϵ,Z) = {(q, ϵ)} \\quad δ(p,b,X) = {(p, XX)}\\quad
+$$
+
+$$
+δ(q,b,Z) = {(p,XZ)} \\quad δ(q,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(q,ϵ)}
+$$
+
 - Leiss Lecture 📹 [[Video](https://www.youtube.com/watch?v=aADmqDfpx-c)]
 
 ## Question 5
@@ -158,6 +196,11 @@ $$
 $$
 \text{Summer 2017}\\quad
 L = [a^i b^j a^i \quad \text{|}\  j\geq i \geq 1]
+$$
+
+$$
+\text{Summer 2022}\\quad
+L = [a^i b^i a^j \quad \text{|}\  j\geq i \geq 1]
 $$
 
 - LEISS (22:00 - 1:25:20) 📹 [[Video](https://www.youtube.com/watch?v=bqQ55-KM_7E)]
