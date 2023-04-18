@@ -69,7 +69,7 @@ $$
 > Construct a pda P for the following langeage L = {...} where L = L(P) (acceptance bu final state. State on which side you write the top of the stack, left, or right. Hint: Put three markers on the stack for every 0.
 
 $$
-\text{Spring 2008}\\quad
+\text{Spring 2008, Summer 2013}\\quad
 L = [0^i 1^{3i} \quad \text{|}\  i\geq 0]
 $$
 
@@ -97,7 +97,7 @@ $$
 - Refer to [Q2's](#question-2) videos
 
 $$
-\text{Summer 2015, 2017} \\quad
+\text,Summer 2013, 2015, 2017} \\quad
 $$
 
 $$
@@ -107,6 +107,8 @@ $$
 $$
 N = {E} \\quad P = (E -> E*E | E/E | (E) | id)
 $$
+
+<br>
 
 $$
 \text{Summer 2022} \\quad
@@ -161,7 +163,7 @@ $$
 <br>
 
 $$
-\text{Summer 2015, 2017} \\quad
+\text{Summer 2013, 2015, 2017} \\quad
 $$
 
 $$
@@ -201,7 +203,7 @@ $$
 > Construct a Turing machine for the language in Question 1. L = {...}. Describe first in words what you are doing, then formulate the formal Turing machine.
 
 $$
-\text{Summer 2015}\\quad
+\text{Summer 2013, 2015}\\quad
 L = [a^i b^j a^i \quad \text{|}\  j > i \geq 1]
 $$
 
