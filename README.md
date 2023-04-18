@@ -97,7 +97,7 @@ $$
 - Refer to [Q2's](#question-2) videos
 
 $$
-\text,Summer 2013, 2015, 2017} \\quad
+\text{Summer 2013, 2015, 2017} \\quad
 $$
 
 $$
