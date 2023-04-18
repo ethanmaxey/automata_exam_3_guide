@@ -171,6 +171,8 @@ $$
 δ(q,b,Z) = {(p,XZ)} \\quad δ(q,a,X) = {(q, ϵ)} \\quad δ(p,a,X) = {(p,ϵ)}
 $$
 
+<br>
+
 $$
 \text{Summer 2022} \\quad
 $$
