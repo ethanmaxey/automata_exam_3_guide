@@ -204,7 +204,7 @@ $$
 > Construct a grammar for L(G) for the language N(P): P = {...} where the move function delta is given by {...}. Here, the top of the stack is on the left.
 
 $$
-\text{Spring 2008, Summer 2008, Spring 2009 \\quad
+\text{Spring 2008, Summer 2008, Spring 2009} \\quad
 $$
 
 $$
