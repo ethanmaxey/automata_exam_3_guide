@@ -74,6 +74,11 @@ L = [0^i 1^{3i} \quad \text{|}\  i\geq 0]
 $$
 
 $$
+\text{Summer 2000}\\quad
+L = [0^{2i} 1^i \quad \text{|}\  i\geq 0]
+$$
+
+$$
 \text{Summer 2012}\\quad
 L = [0^i 1^{2i} \quad \text{|}\  i\geq 0]
 $$
@@ -108,7 +113,7 @@ $$
 - Refer to [Q2's](#question-2) videos
 
 $$
-\text{Summer 2010} \\quad
+\text{Summer 2009, 2010} \\quad
 $$
 
 $$
@@ -202,7 +207,7 @@ $$
 <br>
 
 $$
-\text{Summer 2010, 2012, 2013, 2015, 2017} \\quad
+\text{Summer 2009, 2010, 2012, 2013, 2015, 2017} \\quad
 $$
 
 $$
@@ -240,6 +245,22 @@ $$
 ## Question 5
 
 > Construct a Turing machine for the language in Question 1. L = {...}. Describe first in words what you are doing, then formulate the formal Turing machine.
+
+$$
+\text{Spring 2008}\\quad
+L = [0^k 1^j 2^i \quad \text{|}\  i>j>k\geq 0]
+$$
+
+$$
+\text{Summer 2008}\\quad
+L = [0^k 1^j 2^i \quad \text{|}\  i>j>k\geq 1]
+$$
+
+
+$$
+\text{Spring 2009}\\quad
+L = [0^k 1^j 0^i \quad \text{|}\  i>j>k\geq 0]
+$$
 
 $$
 \text{Summer 2010}\\quad
