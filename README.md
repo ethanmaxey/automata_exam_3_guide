@@ -74,6 +74,12 @@ L = [0^i 1^{3i} \quad \text{|}\  i\geq 0]
 $$
 
 $$
+\text{Summer 2012}\\quad
+L = [0^i 1^{4i} \quad \text{|}\  i\geq 0]
+$$
+
+
+$$
 \text{Summer 2015}\\quad
 L = [0^{3i} 1^i \quad \text{|}\  i\geq 0]
 $$
@@ -95,6 +101,20 @@ $$
 > Construct a pda P that accepts the following language by empty stack: L = L(G) where G = {...} with T = {...}, N = {...}, and P = {...}. State on which side you write the top of the stack, left, or right. Note: You must use the construction "cfg -> pda" given in class. Get G into GNF first!
 
 - Refer to [Q2's](#question-2) videos
+
+$$
+\text{Summer 2012} \\quad
+$$
+
+$$
+L = L(G) \\quad G = (T, N, P, E) \\quad T = (id, +, -, (, ))
+$$
+
+$$
+N = {E} \\quad P = (E -> E + E | E-E | (E) | id)
+$$
+
+<br>
 
 $$
 \text{Summer 2013, 2015, 2017} \\quad
@@ -163,7 +183,7 @@ $$
 <br>
 
 $$
-\text{Summer 2013, 2015, 2017} \\quad
+\text{Summer 2012, 2013, 2015, 2017} \\quad
 $$
 
 $$
@@ -203,13 +223,13 @@ $$
 > Construct a Turing machine for the language in Question 1. L = {...}. Describe first in words what you are doing, then formulate the formal Turing machine.
 
 $$
-\text{Summer 2013, 2015}\\quad
-L = [a^i b^j a^i \quad \text{|}\  j > i \geq 1]
+\text{Summer 2012, 2017}\\quad
+L = [a^i b^j a^i \quad \text{|}\  j\geq i \geq 1]
 $$
 
 $$
-\text{Summer 2017}\\quad
-L = [a^i b^j a^i \quad \text{|}\  j\geq i \geq 1]
+\text{Summer 2013, 2015}\\quad
+L = [a^i b^j a^i \quad \text{|}\  j > i \geq 1]
 $$
 
 $$
