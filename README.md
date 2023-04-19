@@ -121,13 +121,13 @@ $$
 $$
 
 $$
-L = L(G) \\quad G = (T, N, P, S) \\quad T = (<, >, [, ] )
+L = L(G) \\quad G = (T, N, P, S) \\quad T = (<, >, \text{open br} )
 $$
 
 $$
 N = {S,A} \\quad P = (S -> <S>A|[A]A, A -> [A]S | <S>S| ε)
 $$
-
+  
 <br>
 
 $$
@@ -147,7 +147,6 @@ $$
 $$
 \text{Summer 2009, 2010} \\quad
 $$
- 
 
 $$
 L = L(G) \\quad G = (T, N, P, E) \\quad T = (id, +, *, (, ))
