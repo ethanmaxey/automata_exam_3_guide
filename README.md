@@ -117,6 +117,20 @@ $$
 - Refer to [Q2's](#question-2) videos
 
 $$
+\text{Spring 2008, 2009} \\quad
+$$
+
+$$
+L = L(G) \\quad G = (T, N, P, S) \\quad T = (<, >, [, ] )
+$$
+
+$$
+N = {S,A} \\quad P = (S -> <S>A}[A]A, A -> [A]S | <S>S| ε)
+$$
+
+<br>
+
+$$
 \text{Summer 2008} \\quad
 $$
 
@@ -126,20 +140,6 @@ $$
 
 $$
 N = {S,A} \\quad P = (S -> <A>S}[A]A, A -> [S]A | <S>S| ε)
-$$
-
-<br>
-
-$$
-\text{Spring 2009} \\quad
-$$
-
-$$
-L = L(G) \\quad G = (T, N, P, S) \\quad T = (<, >, [, ] )
-$$
-
-$$
-N = {S,A} \\quad P = (S -> <S>A}[A]A, A -> [A]S | <S>S| ε)
 $$
 
 <br>
