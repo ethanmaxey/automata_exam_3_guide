@@ -79,7 +79,12 @@ L = [0^{4i} 1^i \quad \text{|}\  i\geq 1]
 $$
 
 $$
-\text{Summer 2000}\\quad
+\text{Spring 2009, Summer 2012}\\quad
+L = [0^i 1^{4i} \quad \text{|}\  i\geq 0]
+$$
+
+$$
+\text{Summer 2010}\\quad
 L = [0^{2i} 1^i \quad \text{|}\  i\geq 0]
 $$
 
@@ -87,12 +92,6 @@ $$
 \text{Summer 2012}\\quad
 L = [0^i 1^{2i} \quad \text{|}\  i\geq 0]
 $$
-
-$$
-\text{Summer 2012}\\quad
-L = [0^i 1^{4i} \quad \text{|}\  i\geq 0]
-$$
-
 
 $$
 \text{Summer 2015}\\quad
@@ -132,8 +131,23 @@ $$
 <br>
 
 $$
+\text{Spring 2009} \\quad
+$$
+
+$$
+L = L(G) \\quad G = (T, N, P, S) \\quad T = (<, >, [, ] )
+$$
+
+$$
+N = {S,A} \\quad P = (S -> <S>A}[A]A, A -> [A]S | <S>S| ε)
+$$
+
+<br>
+  
+$$
 \text{Summer 2009, 2010} \\quad
 $$
+ 
 
 $$
 L = L(G) \\quad G = (T, N, P, E) \\quad T = (id, +, *, (, ))
@@ -190,7 +204,7 @@ $$
 > Construct a grammar for L(G) for the language N(P): P = {...} where the move function delta is given by {...}. Here, the top of the stack is on the left.
 
 $$
-\text{Spring, Summer 2008} \\quad
+\text{Spring 2008, Summer 2008, Spring 2009 \\quad
 $$
 
 $$
