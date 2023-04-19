@@ -314,6 +314,8 @@ $$
 L = [a^i b^i a^j \quad \text{|}\  j\geq i \geq 1]
 $$
 
+[[Turing Machine Creator](https://turingmachine.io/)]
+
 - LEISS (22:00 - 1:25:20) 📹 [[Video](https://www.youtube.com/watch?v=bqQ55-KM_7E)]
 - Turing Machines - Leiss Lecturing 📹 [[Video](https://www.youtube.com/watch?v=bqQ55-KM_7E)]
 - Turing Machines - Example 📹 [[Video](https://www.youtube.com/watch?v=Y0x9kmfjQTA)]
