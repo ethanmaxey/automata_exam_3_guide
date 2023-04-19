@@ -125,7 +125,7 @@ L = L(G) \\quad G = (T, N, P, S) \\quad T = (<, >, [, ] )
 $$
 
 $$
-N = {S,A} \\quad P = (S -> <S>A}[A]A, A -> [A]S | <S>S| ε)
+N = {S,A} \\quad P = (S -> <S>A|[A]A, A -> [A]S | <S>S| ε)
 $$
 
 <br>
@@ -139,7 +139,7 @@ L = L(G) \\quad G = (T, N, P, S) \\quad T = (<, >, [, ] )
 $$
 
 $$
-N = {S,A} \\quad P = (S -> <A>S}[A]A, A -> [S]A | <S>S| ε)
+N = {S,A} \\quad P = (S -> <A>S|[A]A, A -> [S]A | <S>S| ε)
 $$
 
 <br>
