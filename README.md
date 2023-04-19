@@ -74,6 +74,11 @@ L = [0^i 1^{3i} \quad \text{|}\  i\geq 0]
 $$
 
 $$
+\text{Summer 2008}\\quad
+L = [0^{4i} 1^i \quad \text{|}\  i\geq 1]
+$$
+
+$$
 \text{Summer 2000}\\quad
 L = [0^{2i} 1^i \quad \text{|}\  i\geq 0]
 $$
@@ -111,6 +116,20 @@ $$
 > Construct a pda P that accepts the following language by empty stack: L = L(G) where G = {...} with T = {...}, N = {...}, and P = {...}. State on which side you write the top of the stack, left, or right. Note: You must use the construction "cfg -> pda" given in class. Get G into GNF first!
 
 - Refer to [Q2's](#question-2) videos
+
+$$
+\text{Summer 2008} \\quad
+$$
+
+$$
+L = L(G) \\quad G = (T, N, P, S) \\quad T = (<, >, [, ] )
+$$
+
+$$
+N = {S,A} \\quad P = (S -> <A>S}[A]A, A -> [S]A | <S>S| ε)
+$$
+
+<br>
 
 $$
 \text{Summer 2009, 2010} \\quad
